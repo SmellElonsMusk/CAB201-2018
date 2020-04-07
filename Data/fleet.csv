@@ -1,0 +1,12 @@
+Rego,Make,Model,Year,VehicleClass,NumSeats,Transmission,Fuel,GPS,SunRoof,Colour,DailyRate
+007JBD,Aston Martin,DB9,2007,Sport,2,Automatic,12,False,Petrol,True,True,Grey,130
+530GFE,Toyota,Supra,1998,Sport,2,Manual,6,True,Petrol,False,True,Black,130
+340GFP,Audi,RS3,2018,Sport,4,Automatic,5,True,Petrol,True,True,White,130
+195WRF,Toyota,Prius,2014,Economy,5,Automatic,4,False,Petrol,False,False,Blue,50
+199JAP,Nissan,Skyline R34,1998,Sport,2,Automatic,6,True,Petrol,True,True,Blue,130
+174XPE,Toyota,Land Cruiser,2018,OffRoad,7,Automatic,4,False,Petrol,True,True,Black,90
+123XYZ,Test,Test,2000,Economy,2,Automatic,2,False,Petrol,False,False,Black,50
+340FPE,Isuzu,NLR,2018,Commercial,2,Automatic,4,False,Diesel,False,False,White,130
+123HFP,Toyota,Prius,2010,Economy,4,Automatic,2,False,Petrol,False,False,Black,50
+459XFH,Toyota,Supra,1990,Sport,2,Automatic,6,False,Petrol,False,False,Black,130
+129MHR,Nissan,Patrol,2007,OffRoad,7,Manual,4,False,Petrol,False,False,Grey,90
